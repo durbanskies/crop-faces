@@ -1,2 +1,2 @@
 # crop-faces
-Crop faces from source
+Crop faces from source using haar cascades.
